@@ -90,7 +90,7 @@ class Twitter{
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>Noticias</title>
+<title>How to use the Twitter API</title>
 <!-- Google fonts -->
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600' rel='stylesheet' type='text/css'>
 <!-- Bootstrap styles CDN -->
